@@ -10,13 +10,13 @@ The company seeks to develop a comprehensive and advanced Business Intelligence 
 
 Operational KPIs
 
-🔹 Order Fulfillment Rate – Measuring successful deliveries vs. total orders.
-🔹 Delivery Time Analysis – Tracking average delivery time, delays & route efficiency.
-🔹 Driver Utilization & Efficiency – Monitoring fleet performance and idle time.
-🔹 Order Cancellation & Refund Trends – Identifying reasons for cancellations.
-🔹 Peak Hour Order Demand – Analyzing order trends by time and location.
-🔹 Restaurant Performance Metrics – Measuring order acceptance rates, preparation time, and customer ratings.
-🔹 Customer Complaints & Resolution Time – Tracking issue resolution efficiency.
+- Order Fulfillment Rate – Measuring successful deliveries vs. total orders.
+- Delivery Time Analysis – Tracking average delivery time, delays & route efficiency.
+- Driver Utilization & Efficiency – Monitoring fleet performance and idle time.
+  - Order Cancellation & Refund Trends – Identifying reasons for cancellations.
+- Peak Hour Order Demand – Analyzing order trends by time and location.
+  - Restaurant Performance Metrics – Measuring order acceptance rates, preparation time, and customer ratings.
+- Customer Complaints & Resolution Time – Tracking issue resolution efficiency.
 
 Business Performance Metrics
 
